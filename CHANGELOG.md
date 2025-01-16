@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.13 (2025-01-15)
+- Add support for array fields
+
 ## v0.0.12 (2023-02-02)
 - Update dependencies
 
